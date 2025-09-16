@@ -1,0 +1,24 @@
+[project]
+name = "repl-nix-workspace"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "certifi>=2025.8.3",
+    "fuzzywuzzy>=0.18.0",
+    "joblib>=1.5.2",
+    "langdetect>=1.0.9",
+    "openai>=1.107.3",
+    "opencv-python>=4.12.0.88",
+    "pandas>=2.3.2",
+    "pillow>=11.3.0",
+    "psycopg2-binary>=2.9.10",
+    "pymongo>=4.15.1",
+    "pytesseract>=0.3.13",
+    "python-dotenv>=1.1.1",
+    "python-levenshtein>=0.27.1",
+    "scikit-learn>=1.7.2",
+    "speechrecognition>=3.14.3",
+    "streamlit>=1.49.1",
+    "twilio>=9.8.0",
+]
