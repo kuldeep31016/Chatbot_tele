@@ -118,7 +118,7 @@ Chatbot_tele/
 3. Review drug interaction warnings
 4. Receive dosage recommendations and safety guidelines
 
-## 🎯 SIH 2024 Problem Statement Alignment
+## 🎯 SIH 2025 Problem Statement Alignment
 
 This project addresses critical healthcare challenges by:
 - **Improving Healthcare Accessibility**: 24/7 AI assistant for immediate health guidance
