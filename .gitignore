@@ -1,1 +1,38 @@
+
+# Python virtual environment
+venv/
+
+# Environment variables
 .env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit logs
+.streamlit/
+
+# OS files
+.DS_Store
+
+# Jupyter and notebook files
+*.ipynb
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# Sensitive assets
+attached_assets/
+
+# Logs
+*.log
+
+# Other
+*.sqlite3
+*.db
+
+# Ignore backup and temp files
+*.bak
+*.tmp
+*.swp
