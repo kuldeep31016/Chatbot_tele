@@ -28,12 +28,11 @@ An intelligent healthcare assistant application developed for Smart India Hackat
 
 ### Backend
 - **Python** (93.9%) - Core application logic and AI models
-- **FastAPI/Flask** - RESTful API development
+- **FastAPI/Streamlit** - RESTful API development
 - **Machine Learning Libraries** - TensorFlow/PyTorch for AI models
 - **Database Integration** - Data storage and retrieval
 
 ### Frontend
-- **HTML/CSS/JavaScript** - User interface development
 - **PLpgSQL** (6.1%) - Database queries and procedures
 - **Responsive Web Design** - Cross-platform compatibility
 
@@ -145,7 +144,7 @@ This project addresses critical healthcare challenges by:
 
 ## 👥 Team Information
 
-**Developed for Smart India Hackathon 2024**
+**Developed for Smart India Hackathon 2025**
 - Team Leader: Harshal Mandliya 
 - Institution: Dayananda Sagar College of Engineering, Bengaluru
 - Problem Statement: Telemedicine Chatbot
@@ -153,7 +152,7 @@ This project addresses critical healthcare challenges by:
 ## 📞 Support & Contact
 
 For technical support or project inquiries:
-- Email: iamkulfeepraj55@gmail.com
+- Email: iamkuldeepraj55@gmail.com
 
 ## 📄 License
 
